@@ -12,6 +12,6 @@ Environment: Ubuntu 12.04
 3. type: php -q path\server.php
 		example: php -q /opt/lampp/htdocs/webSocket/server.php 
 
-4. Using browser, navigate to index.php location to open chat page, have fun!
+4. Using browser, navigate to index.php location to open chat page!
 
 
